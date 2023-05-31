@@ -1,0 +1,30 @@
+body{
+    background-color: grey;
+    margin: 0px;
+}
+
+.chico.azul{
+    background-color: aqua;
+    height: 100px;
+    width: 700px;
+    margin: 10px;
+}
+
+.grande.azul{
+    background-color: aqua;
+    height: 140px;
+    width: 700px;
+    margin: 10px;
+}
+
+.container{
+    display: flex;
+    background-color: grey;
+}
+
+.mediano.azul{
+    background-color: aqua;
+    height: 100px;
+    width: 344px;
+    margin: 1px 2px 2px 10px;
+}
